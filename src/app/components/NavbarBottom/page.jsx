@@ -50,6 +50,9 @@ const NavbarBottom = () => {
         <li className="bottomNavLink">
           Home & Living
         </li>
+        <li className="bottomNavLink">
+          Gadgets
+        </li>
       </ul>
     </div>
   );

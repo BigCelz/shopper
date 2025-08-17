@@ -6,6 +6,6 @@
     }
 
     .bottomNavLink{
-        @apply hover:underline underline-offset-2 cursor-pointer decoration-[1px] duration-200;
+        @apply hover:underline underline-offset-2 cursor-pointer decoration-[1px] duration-200 whitespace-nowrap;
     }
 }
