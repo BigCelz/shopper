@@ -30,7 +30,7 @@ const NavbarBottom = () => {
           Deals
         </li>
         <li className="bottomNavLink">
-          New Arrivals
+          New Arrivals 
         </li>
         <li className="bottomNavLink">
           Best Sellers
